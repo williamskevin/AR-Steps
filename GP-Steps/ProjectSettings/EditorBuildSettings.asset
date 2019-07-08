@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mainMenuScene.unity
+    guid: 8b4faff76fc9e734ca4aa44af32afb84
+  - enabled: 1
+    path: Assets/displayAvatar.unity
+    guid: a2f8ec6372b51774ba323cc848315774
+  - enabled: 1
+    path: Assets/Location-basedGame.unity
+    guid: 42f6aa7ce7a604f16ade319663f46ceb
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/celebrate1.unity
+    guid: 1bc962fa15f7b0440ab45b963b3e6fed
+  m_configObjects: {}
