@@ -4,7 +4,7 @@ An Augmented Reality app built with Unity (C#) to help motivate adolescent Guyan
 ###########............NOTE.............##########
 
 Steps:
-1. Download and install Unity (version used for project 2018/02/14)
+1. Download and install Unity (version used for project 2018/03/14)
 
 2. Open the .sln file from the cloned repo.
 
